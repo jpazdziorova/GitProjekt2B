@@ -17,6 +17,11 @@ namespace GitProjekt2B
 
             Console.WriteLine(osoba.GetVek());
 
+            Auto auto = new Auto();
+            auto.Majitel = osoba;
+            auto.SPZ = "5AA1215";
+            auto.Znacka = "Audi";
+
             Console.ReadKey();
         }
     }
