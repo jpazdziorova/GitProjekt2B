@@ -5,3 +5,10 @@ C:\Users\aska\source\repos\GitProjekt2B\GitProjekt2B\obj\Debug\GitProjekt2B.cspr
 C:\Users\aska\source\repos\GitProjekt2B\GitProjekt2B\obj\Debug\GitProjekt2B.csproj.CoreCompileInputs.cache
 C:\Users\aska\source\repos\GitProjekt2B\GitProjekt2B\obj\Debug\GitProjekt2B.exe
 C:\Users\aska\source\repos\GitProjekt2B\GitProjekt2B\obj\Debug\GitProjekt2B.pdb
+C:\Users\Acer\Desktop\git\gitu2\GitProjekt2B\bin\Debug\GitProjekt2B.exe.config
+C:\Users\Acer\Desktop\git\gitu2\GitProjekt2B\bin\Debug\GitProjekt2B.exe
+C:\Users\Acer\Desktop\git\gitu2\GitProjekt2B\bin\Debug\GitProjekt2B.pdb
+C:\Users\Acer\Desktop\git\gitu2\GitProjekt2B\obj\Debug\GitProjekt2B.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\git\gitu2\GitProjekt2B\obj\Debug\GitProjekt2B.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\git\gitu2\GitProjekt2B\obj\Debug\GitProjekt2B.exe
+C:\Users\Acer\Desktop\git\gitu2\GitProjekt2B\obj\Debug\GitProjekt2B.pdb

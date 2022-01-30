@@ -17,6 +17,10 @@ namespace GitProjekt2B
 
             Console.WriteLine(osoba.GetVek());
 
+            SeznamOsob.PridejOsoba(osoba);
+            Console.WriteLine(SeznamOsob.VyhledejOsoba("Jendřejčík").DatumNarozeni);
+
+
             Console.ReadKey();
         }
     }
